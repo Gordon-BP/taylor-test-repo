@@ -1,2 +1,2 @@
 # taylor-test-repo
-to tes out Taylor the AI developer
+to test out Taylor the AI developer, a cool AI developer project by Gordon.
